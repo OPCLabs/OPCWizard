@@ -29,6 +29,8 @@ Need help, tech support, or missing some example? Ask us for it on our [Online F
 You do not have to own a commercial license in order to use Online Forums, 
 and we reply to every post.
 
+Follow us on [X (Twitter)](https://x.com/opclabs) | Follow us on [LinkedIn](https://linkedin.com/company/opc-labs)
+
 List of available NuGet packages
 --------------------------------
 - **OpcLabs.OpcWizard**: OPC server components for all environments and 
