@@ -1,5 +1,7 @@
-# OPC Wizard
-<a href="https://www.opclabs.com/products/opc-wizard"><img align="right" src="Image-Product-OPCWizard-Web.png"></a>
+OPC Wizard
+==========
+[![OPC Wizard Product Box](https://raw.githubusercontent.com/OPCLabs/OPCWizard/main/Image-Product-OPCWizard-Web.png)](https://www.opclabs.com/products/opc-wizard)
+
 - NuGet package: [**OpcLabs.OpcWizard**](https://www.nuget.org/packages/OpcLabs.OpcWizard)
 
 OPC Wizard is a suite of OPC Server development components for .NET. These 
@@ -13,6 +15,9 @@ minutes; after that period, the component (your app) needs to be re-started,
 and so on. You must also comply with licensing terms for 3rd-party material 
 redistributed with QuickOPC. For details, see the documentation.
 
+| Ready to purchase? See [full price list](https://www.opclabs.com/purchase/full-price-list), or [contact us](https://www.opclabs.com/home/contact). |
+| ------------------------------------------------------------------------ |
+
 Remember that NuGet packages are primarily a tool for resolving build-time 
 dependencies. The amount of functionality that you get through OPC Wizard 
 NuGet packages is smaller than what OPC Wizard can actually do for you. If 
@@ -25,9 +30,10 @@ OPC Wizard requires **.NET Framework** 4.7.2 or **.NET** 8.0 as a minimum. Under
 
 PLEASE DO NOT USE PRE-RELEASE PACKAGES UNLESS INSTRUCTED TO DO SO.
 
-Need help, tech support, or missing some example? Ask us for it on our [Online Forums](https://www.opclabs.com/forum/index)!
-You do not have to own a commercial license in order to use Online Forums, 
-and we reply to every post.
+Need help, **tech support**, or missing some example? Ask us for it on our 
+[Online Forums](https://www.opclabs.com/forum/index)!
+You *do not have to own a commercial license* in order to use Online Forums, 
+and we *reply to every post*.
 
 Follow us on [X (Twitter)](https://x.com/opclabs) | Follow us on [LinkedIn](https://linkedin.com/company/opc-labs)
 
@@ -61,7 +67,7 @@ What is only available from the [Setup program](https://www.opclabs.com/download
 How to start
 ------------
 If you do not mind reading the documentation: [Getting Started with OPC Wizard](
-https://opclabs.doc-that.com/files/onlinedocs/OPCLabs-ConnectivityStudio/Latest/User%27s%20Guide%20and%20Reference-OPC%20Studio/webframe.html#Getting%20Started%20with%20OPC%20Wizard.html).
+https://opclabs.doc-that.com/files/onlinedocs/OPCLabs-ConnectivityStudio/Latest/User%27s%20Guide%20and%20Reference-Connectivity%20Software/webframe.html#Getting%20Started%20with%20OPC%20Wizard.html).
 Or, the whole [User's Guide](https://www.opclabs.com/documentation).
 
 Otherwise, just instantiate the `OpcLabs.EasyOpc.UA.EasyUAServer` object (for 
